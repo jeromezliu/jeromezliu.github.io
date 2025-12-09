@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "default" # Currently available options are "default", "air"
+site_theme               : "air" # Currently available options are "default", "air"
 title                    : "Jerome Liu's Personal Portfolio"
 title_separator          : "-"
 name                     : &name "Jerome Liu"
@@ -25,12 +25,12 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Jerome Liu"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  pronouns         : "He/Him"  
+  bio              : "Ancorā impāro"
   location         : "Earth"
-  employer         : "Red Brick University"
+  employer         : "Microsoft"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "jerome.z.liu@outlook.com" 
 
   # Academic websites
   academia         : # URL
@@ -63,7 +63,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "jeromeliuzhenyu"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
